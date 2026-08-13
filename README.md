@@ -5,11 +5,11 @@
 
 This project is an interactive Power BI dashboard developed to analyze banking transactions and loan performance. It provides a clear view of financial KPIs, customer activity, branch performance, loan distribution, and transaction trends to support data-driven decision-making.
 
-🔗 [Download Power BI Dashboard](./Bank-Debit%20Credit-Dashboard%20and%20Bank_loan%20dashboard%20powerbi%20.pbix)
 
 
-🔗 [Download Power BI Dashboard](./Bank-Debit%20Credit-Dashboard%20and%20Bank_loan%20dashboard%20powerbi%20.pbix)
+🔗 [Download Bank Debit Credit Dashboard](./Bank-Debit%20Credit-Dashboard.pbix)
 
+🔗 [Download Bank Loan Dashboard](./Bank_loan%20dashboard%20powerbi.pbix)
 
 📊 Dashboard Pages
 
