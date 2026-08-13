@@ -1,4 +1,4 @@
- Bank Analytics Dashboard (Power BI)
+Bank Analytics Dashboard (Power BI)
 
 
 📌 Project Overview
