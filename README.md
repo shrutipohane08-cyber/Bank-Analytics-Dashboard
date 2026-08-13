@@ -1,6 +1,6 @@
-Bank Analytics Dashboard (Power BI)
+# Bank Analytics Dashboard (Power BI)
 
-📌 Project Overview
+
 📌 Project Overview
 
 This project is an interactive Power BI dashboard developed to analyze banking transactions and loan performance. It provides a clear view of financial KPIs, customer activity, branch performance, loan distribution, and transaction trends to support data-driven decision-making.
