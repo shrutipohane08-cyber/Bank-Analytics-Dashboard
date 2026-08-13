@@ -10,11 +10,12 @@ This project is an interactive Power BI dashboard developed to analyze banking t
 
 1. Bank Loan Dashboard
    
-<img width="1556" height="883" alt="Screenshot 2026-08-13 192225" src="https://github.com/user-attachments/assets/4e0b60be-2282-4006-b43b-9bcd847e1f92" />
+<img width="1551" height="892" alt="Screenshot 2026-08-13 193353" src="https://github.com/user-attachments/assets/98e1d6f5-2249-4c37-92ba-fdb368734243" />
 
 
-3. Banking Transaction Analytics Dashboard
-   <img width="1565" height="858" alt="Screenshot 2026-08-13 192056" src="https://github.com/user-attachments/assets/4b77b38f-a676-484b-acbc-af4e8543bc59" />
+2. Banking Transaction Analytics Dashboard
+
+<img width="1565" height="858" alt="Screenshot 2026-08-13 192056" src="https://github.com/user-attachments/assets/4b77b38f-a676-484b-acbc-af4e8543bc59" />
 
 
 
